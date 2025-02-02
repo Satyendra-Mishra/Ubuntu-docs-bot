@@ -1,0 +1,5 @@
+__pycache__
+.env
+*.ipynb
+Assets/COT_reasoning_wo_prompting.drawio
+Assets/COT_reasoning_wo_prompting.png
